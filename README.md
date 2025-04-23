@@ -1,5 +1,10 @@
 ### study-of-basic-gates
+```
+Developed by : SRINIVASAN S
 
+Register number :212224220105
+
+```
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
